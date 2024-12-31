@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://wonderchina.win/sitemap.xml 
+Sitemap: https://www.wonderchina.win/sitemap.xml 
